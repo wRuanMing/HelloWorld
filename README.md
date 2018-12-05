@@ -26,7 +26,7 @@
 
 
 # 三.图片
-![图片的名字，写在图片的下方，居中](url,"图片的标题，当鼠标移到图片上时显示的内容")
+![图片的名字，写在图片的下方，居中](https://github.com/wRuanMing/HelloWorld/blob/master/a649f79f41a6997cedc777d750885285b80a92de.jpg_320x200.jpg,"图片的标题，当鼠标移到图片上时显示的内容")
 
 # 四.超链接
 [超链接文字](http//www.baidu.com, "超链接的title，但鼠标移动到超链接文字上时显示的内容")
