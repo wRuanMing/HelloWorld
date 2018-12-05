@@ -26,7 +26,7 @@
 
 
 # 三.图片
-![图片的名字，写在图片的下方，居中](https://raw.githubusercontent.com/wRuanMing/HelloWorld/master/demo.jpg)
+![图片的名字](https://raw.githubusercontent.com/wRuanMing/HelloWorld/master/demo.jpg)
 
 # 四.超链接
 [超链接文字](http//www.baidu.com, "超链接的title，但鼠标移动到超链接文字上时显示的内容")
