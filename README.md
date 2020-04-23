@@ -41,17 +41,9 @@
 3. 有序号列表3号
    - 嵌套一下
       1. 嵌套一下有序号列表，序号自动变a了哈哈！
-# AI_fundus_dmb_diseaselocation
-
-疾病类别序号|中文|English
-:-: | :-: | :-: 
-1|玻璃膜疣|Drusen
-2|激光斑|LaserSpot
-3|玻璃体变性|VitreousDegeneration
-4|脉络膜萎缩/缺损|ChoroidalAtrophy/ChoroidalDefect
 # 六.表格
 表头|表头|表头
----|:--:|---:
+:-: | :-: | :-: 
 内容|内容|内容
 内容|内容|内容
 # 七.代码
