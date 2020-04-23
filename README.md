@@ -43,9 +43,8 @@
       1. 嵌套一下有序号列表，序号自动变a了哈哈！
 # AI_fundus_dmb_diseaselocation
 
-## 疾病中英文对照表
-疾病类别序号|中文｜English
----|:--:|---:
+疾病类别序号|中文|English
+:-: | :-: | :-: 
 1|玻璃膜疣|Drusen
 2|激光斑|LaserSpot
 3|玻璃体变性|VitreousDegeneration
